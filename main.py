@@ -1,6 +1,11 @@
 from PlaywithPaths_1 import *
 
-playwithPath()
-
-
+#playwithPath()
+#PlaywithFolder()
+#PlayCreatedTime()
+#convertExtension()
+#createEmptyFiles(10)
+#zipTheFiles()
+#unzipFiles()
+searchFile("April")
 
